@@ -4,7 +4,7 @@ background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 
 }
 #gameDiv{
-    width: 50vw;
+    width: 70vw;
     margin: auto;
     font-family: 'Brush Script MT', cursive;
     border: 3px solid;
@@ -28,3 +28,16 @@ button:hover{
     box-shadow: 4px 4px 3px hotpink;
     
 }
+img{
+    width: 200px;
+}
+/* #advertisement{
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px solid red;
+}
+.posts{
+    margin:10px;
+    border-radius: 10px;
+    box-shadow:4px 3px 5px #8EC5FC;
+} */

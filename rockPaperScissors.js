@@ -1,6 +1,4 @@
-//welcome message!
-const userName = prompt("Enter Your Name");
-document.getElementById('userName').innerHTML = userName
+
 
 let playerText = document.querySelector("#playerText");
 let computerText = document.querySelector("#computerText");
@@ -45,3 +43,6 @@ function checkWinner() {
         return (player == "ROCK") ? "You Won!": "You Lose😕";
     }
 }
+//welcome message!
+const userName = prompt("Enter Your Name");
+document.getElementById('userName').innerHTML = userName
